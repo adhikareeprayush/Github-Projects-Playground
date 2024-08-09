@@ -1,1 +1,1 @@
-# github-projects-playground
+# Github Projects Playground
